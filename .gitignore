@@ -1,0 +1,7 @@
+# any files with the name hack
+hack
+.hack
+# ignore files
+*.yml
+*.json
+*.exe
